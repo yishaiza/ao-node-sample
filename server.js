@@ -1,4 +1,4 @@
-// require('appoptics-apm');
+require('appoptics-apm');
 
 var express = require('express');
 var bodyParser = require('body-parser');
